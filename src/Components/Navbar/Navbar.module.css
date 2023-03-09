@@ -1,0 +1,10 @@
+
+.navUno{
+    display:flex;
+    justify-content: space-around;
+    background-color:burlywood;
+    color:blanchedalmond;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+}
