@@ -1,5 +1,4 @@
-
-const ItemList = ({Item}) => {
+const ItemListContainer = ({Item}) => {
     return (
         <ul>
             <li>{Item[0]}</li>
@@ -10,4 +9,4 @@ const ItemList = ({Item}) => {
     )
 }
 
-export default ItemList;
+export default ItemListContainer;
